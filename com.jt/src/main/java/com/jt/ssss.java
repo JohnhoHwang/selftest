@@ -1,5 +1,5 @@
 package com.jt;
 
 public class ssss {
-sds
+private int age;
 }
